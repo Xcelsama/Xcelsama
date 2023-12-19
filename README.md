@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Xcelsama
-- 👀 I’m interested in Developing MD's...
-- 🌱 I’m currently learning  Json ...
-- 💞️ I’m looking to collaborate on Excel-MD ...
-- 📫 How to reach me ...
-https://wa.me//+2347045035241![FB_IMG_17013197988594199](https://github.com/Xcelsama/Xcelsama/assets/144502732/58451f8f-9b07-4189-893d-73b702ddfcd9)
-![FB_IMG_17013622595759959](https://github.com/Xcelsama/Xcelsama/assets/144502732/36e8015b-b767-40c2-99d5-6db54cbf8612)
-
-<!---
-Xcelsama/Xcelsama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Excel
+📍Africa
++2347045035241
+Learning Nod.JSON
