@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 
 # 𝐌𝐘 𝐈𝐍𝐅𝐎:
-- Im currently a student.
-- Im currently learning I.C.T and Also How to become a Developer 
-- I'm intesested in Nod.json.
-- My current ongoing projects are: Whatsapp Bots,WEB QR.
-- Currently working on [whatsapp-Bots](https://github.com/Xcelsama/STAR-MD)
+- 𝙸 𝙰𝚖 urrent𝚕𝚢 𝚊 𝚜𝚝𝚞𝚍𝚎𝚗𝚝.
+- Im 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙸.𝙲.𝚃 and 𝙰𝚕𝚜𝚘 𝚑𝚘𝚠 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚃𝚎𝚍 𝚒𝚗  𝙽𝚘𝚍.𝚓𝚜𝚘𝚗.
+- 𝙼𝚢 𝚘𝚗𝚐𝚘𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚊𝚛𝚎 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝𝚜 &  .
+- Currently working on [𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝](https://github.com/Xcelsama/STAR-MD)
 
 <br>
 <br>
