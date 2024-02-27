@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-   <a href="https://github.com/Xcelsama">
-    <img src="https://github.com/Xcelsama/https://i.ibb.co/k2b17yw/Excel-Amped-Logo.png" > </a>
-    </p>
 
 
 <div align="center">
