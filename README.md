@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-# My about:
+# ᎷᎽ ᏆΝҒϴ:
 - Im currently a student.
 - Im currently learning I.C.T and Also How to become a Developer 
 - I'm intesested in Nod.json.
