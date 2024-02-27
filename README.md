@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </p>
 
 # My Recent Project:
-- [STAR-MD(Dangerous Virus)](https://github.com/Xcelsama/STAR-MD)
+- [STAR-MD(Whatsapp User bot)](https://github.com/Xcelsama/STAR-MD)
 <p align="left">
    <a href="https://github.com/Xcelsama/STAR-MD>
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
