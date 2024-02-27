@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+Bro+Itz+Mr+Abraham+;Thanks+for+Visiting+;Follow+my+github"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+I'm+Excel+Amadi+;Thanks+for+Visiting+;Follow+my+github"
             alt="Typing SVG"
         />
     </a>
