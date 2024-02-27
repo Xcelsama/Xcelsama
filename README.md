@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
    <a href="https://github.com/Xcelsama">
-    <img src="https://github.com/abrahamdw882/https://telegra.ph/file/158d9d4165741d032019f.jpg"width="180" > </a>
+    <img src="https://github.com/Xcelsama/https://i.ibb.co/k2b17yw/Excel-Amped-Logo.png" > </a>
     </p>
 
 
