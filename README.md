@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-# ᎷᎽ ᏆΝҒϴ:
+# 𝐌𝐘 𝐈𝐍𝐅𝐎:
 - Im currently a student.
 - Im currently learning I.C.T and Also How to become a Developer 
 - I'm intesested in Nod.json.
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 
-# My Github Status:
+# 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒:
 
 <br>
 
