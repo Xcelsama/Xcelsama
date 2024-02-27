@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - Im currently learning I.C.T and Also How to become a Developer 
 - I'm intesested in Nod.json.
 - My current ongoing projects are: Whatsapp Bots,WEB QR.
-- Currently working on [whatsapp-Bot](https://github.com/Xcelsama/STAR-MD)
+- Currently working on [whatsapp-Bots](https://github.com/Xcelsama/STAR-MD)
 
 <br>
 <br>
-<p align="center">Hello, World🤞 welcome |©EX BOT DEV🤖|please code with me ok😁 ! </p>
+<p align="center">Hello, World🤞 welcome |©EXCEL BOT DEV🤖|please code with me ok😁 ! </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="nz" width="200"/>
