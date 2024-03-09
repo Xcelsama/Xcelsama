@@ -1,110 +1,40 @@
-### Hi there 👋
+[![Xcelsama](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Excel+Amadi;I+am+a+Self+Learned+Fronted+Developer;I+am+from+West+Africa-Nigeria)](https://github.com/Xcelsama)
 
-<!--
-**Xcelsama/Xcelsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Here is My Github Profile Stats<h2/>
 
-Here are some ideas to get you started:
+![Xcelsama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcelsama&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔜 I’m currently working on STAR-MD-V3
+- 🔰I’m currently learning [`JAVA`](https://www.liaoxuefeng.com/wiki/1016959663602400)
+- ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
+- 🔍 Ask me about Whatsapp Bots or Web Design and Development Issues
+- 📡 How to reach me: [`Whatsapp`](https://wa.me/+2347045035241)
+-  Also visit my Website [`Here`](https://github.com/Xcelsama)
+➡︎ ⚡ Fun fact: Coding is like a joke once you explain it doesn't make sense 👌👍
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
+<h3>Some of my Projects:</h3>
 
-<div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=ff000&background=FF673200&center=true&vCenter=true&lines=Hey+I'm+Excel+Amadi+;Thanks+for+Visiting+;Follow+my+github"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-</div>
+<a href="https://github.com/Xcelsama/STAR-MD-V2">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xcelsama&repo=STAR-MD-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<a href="https://github.com/Xcelsama/STAR-MD">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xcelsama&repo=STAR-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<a href="https://github.com/Giftedmaurice/giftedmdV2-session-generator">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=giftedmdv2-session-generator&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+⇶Some⥥Collabs.... 
+<a href="https://github.com/Giftedmaurice/gifted-md-qr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=gifted-md-qr&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-# ᴍʏ ɪɴғᴏ:
-- 𝙸 𝙰𝚖 𝚌urrent𝚕𝚢 𝚊 𝚜𝚝𝚞𝚍𝚎𝚗𝚝.
-- Im 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙸.𝙲.𝚃 and 𝙰𝚕𝚜𝚘 𝚑𝚘𝚠 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚃𝚎𝚍 𝚒𝚗  𝙽𝚘𝚍.𝚓𝚜𝚘𝚗.
-- 𝙼𝚢 𝚘𝚗𝚐𝚘𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚊𝚛𝚎 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝𝚜 &  .
-- 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗[𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝](https://github.com/Xcelsama/STAR-MD)
-
-<br>
-<br>
-<p align="center">Hello, World🤞 welcome |©EXCEL BOT DEV🤖|please code with me ok😁 ! </p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="nz" width="200"/>
-</p>
-
-# My Recent Project:
-- [STAR-MD(Whatsapp User bot)](https://github.com/Xcelsama/STAR-MD)
-<p align="left">
-   <a href="https://github.com/Xcelsama/STAR-MD>
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="300">  
-</p>
+<a href="https://github.com/Kingjux/Venocyber-voice-message">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kingjux&repo=Venocyber-voice-message&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
-# 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒:
 
-<br>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://github.com/Xcelsama)
-
-<br>
-
-![Github Badges](https://github-readme-stats.vercel.app/api?username=Xcelsama&show_icons=true&theme=vision-friendly-dark)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamdw882&layout=compact)](https://github.com/Xcelsama/github-readme-stats)<br>
-![My Profile Views](https://wa.me//233533763772whatsapp)
-<br>
-<br>
-<br>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-
-<h2 align="center"> I will keep running and improving my progress day by day...
-</h2>
-
-<p align="center">
-   <a href="https://github.com/Xcelsama">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
-    </p>
-<br>
-
-# My Popular Repositories:
-
--   [STAR-MD]( https://github.com/Xcelsama/ABBOTWEB.github.io/blob/main/Xcelsama)
-
-
-<br>
-<br>
-<br>
-
-
-<div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Chat+me+below👇;+Bye+Have+a+good+Day"
-
-<!-- Contact EXCEL -->
-<b><details><summary>Click to Chat Me</summary></b>
-
-## ```Connect With Excel```
-
-## Follow me on
-<a href="https://wa.me//2347045035241?text=Het%20I%20Am%20From%20GitHub%20☺️">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-[MY CHANNEL](https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m) 
-#### If you have any queries or suggestions then you can contact me i will be happy to respond. 
-<br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Xcelsama)
