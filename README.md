@@ -4,11 +4,10 @@
 
 ![Xcelsama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcelsama&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
-- 🔜 I’m currently working on STAR-MD-V3
-- 🔰I’m currently learning [`JAVA`](https://www.liaoxuefeng.com/wiki/1016959663602400)
-- ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
-- 🔍 Ask me about Whatsapp Bots or Web Design and Development Issues
--  Also visit my website[`Here`](https://github.com/Xcelsama)
+🔜 I’m currently working on STAR-MD-V3
+🔰I’m currently learning [`JAVA`](https://www.liaoxuefeng.com/wiki/1016959663602400) ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
+🔍 Ask me about Whatsapp Bots or Web Design and Development Issues
+Also visit my website[`Here`](https://github.com/Xcelsama)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
