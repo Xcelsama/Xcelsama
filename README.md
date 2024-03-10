@@ -14,7 +14,11 @@
 
 Also visit my website[`Here`](https://github.com/Xcelsama)
 
+# 📫 How to reach me:
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347045035241)
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/) 
 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
 <h3>Some of my Projects:</h3>
 
@@ -25,6 +29,7 @@ Also visit my website[`Here`](https://github.com/Xcelsama)
 <a href="https://github.com/Xcelsama/STAR-MD">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xcelsama&repo=STAR-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 ⇶Some⥥Collabs....
 <a href="https://github.com/Giftedmaurice/giftedmdV2-session-generator">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Giftedmaurice&repo=giftedmdv2-session-generator&theme=dark&layout=compact&langs_count=8&card_width=320" />
