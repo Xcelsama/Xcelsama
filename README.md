@@ -1,6 +1,6 @@
 [![Xcelsama](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Excel+Amadi;I+am+a+Self+Learned+Fronted+Developer;I+am+from+West+Africa-Nigeria)](https://github.com/Xcelsama)
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
-<h2/> 💎MY STATS...h2/>
+<h2/> 💎MY STATS...<h2/>
 
 ![Xcelsama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcelsama&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
