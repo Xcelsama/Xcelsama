@@ -9,8 +9,8 @@
 - ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
 - 🔍 Ask me about Whatsapp Bots or Web Design and Development Issues
 - 📡 How to reach me: [`Whatsapp`](https://wa.me/+2347045035241)
--  Also visit my Website [`Here`](https://github.com/Xcelsama)
-➡︎ ⚡ Fun fact: Coding is like a joke once you explain it doesn't make sense 👌👍
+-  Also visit my website[`Here`](https://github.com/Xcelsama)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
 <h3>Some of my Projects:</h3>
