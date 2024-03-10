@@ -16,9 +16,7 @@ Also visit my website[`Here`](https://github.com/Xcelsama)
 
 # 📫 How to reach me:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347045035241)
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/) 
-
-<br>
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
 <h3>Some of my Projects:</h3>
 
