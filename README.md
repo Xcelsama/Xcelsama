@@ -40,5 +40,5 @@ Also visit my website[`Here`](https://github.com/Xcelsama)
 </a>
 
 
+(๑`✪̤◡✪̤)◞ღԵհɑղƘՏღ
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Xcelsama)
