@@ -8,18 +8,15 @@
 
 ![Xcelsama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcelsama&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
-🔜 I’m currently working on STAR-MD-V3
-
-🔰I’m currently learning [`JAVA`](https://www.liaoxuefeng.com/wiki/1016959663602400)
-
+- 💫 I’m currently working on [STAR-MD-V2](https://github.com/Xcelsama/STAR-MD-V2)
+- 📫 [How to reach me!](https://github.com/Xcelsama/Xcelsama/blob/main/README.md#-how-to-reach-me)
+- ⚡ Always ready to help!
  ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
 
 🔍 Ask me about Whatsapp Bots or Web Design and Development Issues. 
 
-Also visit my website[`Here`](https://github.com/Xcelsama)
 
-# 📫 How to reach me
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347045035241)
+#  [WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347045035241)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/) 
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
