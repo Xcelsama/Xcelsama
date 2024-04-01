@@ -13,7 +13,7 @@
 - ⚡ Always ready to help!
  ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
 
-🔍 Ask me about Whatsapp Bots or Web Design and Development Issues. 
+- 🔍 Ask me about Whatsapp Bots or Web Design and Development Issues. 
 
 
 # 
