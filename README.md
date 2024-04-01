@@ -23,7 +23,7 @@ Also visit my website[`Here`](https://github.com/Xcelsama)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/) 
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcelsama&layout=donut)](https://github.com/Xcelsama)
-<h3>Some of my Projects:</h3>
+<h3>SOME PROJECTS:</h3>
 
 <a href="https://github.com/Xcelsama/STAR-MD-V2">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xcelsama&repo=STAR-MD-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
