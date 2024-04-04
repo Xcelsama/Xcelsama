@@ -11,7 +11,7 @@
 ![Xcelsama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcelsama&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
 <p align="center">
-  <a href="https://github.com/DikaArdnt"><img src="https://github-readme-streak-stats.herokuapp.com?user=Xcelsama&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+  <a href="https://github.com/Xcelsama"><img src="https://github-readme-streak-stats.herokuapp.com?user=Xcelsama&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
 </p>
 
 <p align="center">
