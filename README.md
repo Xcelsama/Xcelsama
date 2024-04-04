@@ -10,8 +10,16 @@
 
 ![Xcelsama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcelsama&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&show_icons=true)
 
+<p align="center">
+  <a href="https://github.com/DikaArdnt"><img src="https://github-readme-streak-stats.herokuapp.com?user=Xcelsama&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Xcel"><img src="https://github-profile-trophy.vercel.app/?username=Xcelsama&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
+</p>
+<br>
 - 💫 I’m Currently working on [STAR-MD](https://github.com/Xcelsama/STAR-MD-V2)
-- 📫 [How to reach me!](https://github.com/Xcelsama/Xcelsama/blob/main/README.md#-how-to-reach-me)
+- 📫 [How to reaching me!](https://github.com/Xcelsama/Xcelsama/blob/main/README.md#-how-to-reach-me)
 - ⚡ Always ready to help!
  ⤵️ I’m looking to collaborate on Developing WhatsApp Bots.. 
 
