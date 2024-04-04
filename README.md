@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/Xcel"><img src="https://github-profile-trophy.vercel.app/?username=Xcelsama&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
 </p>
-<br>
+
 - 💫 I’m Currently working on [STAR-MD](https://github.com/Xcelsama/STAR-MD-V2)
 - 📫 [How to reaching me!](https://github.com/Xcelsama/Xcelsama/blob/main/README.md#-how-to-reach-me)
 - ⚡ Always ready to help!
