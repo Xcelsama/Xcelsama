@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Xcelsama"> <img  alt="Xcelsama's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/Xcelsama"> <img  alt="Xcelsama's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Xcelsama?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 
