@@ -5,7 +5,12 @@
 </p>
 
 ![My card name](https://cardivo.vercel.app/api?name=Excel%20Amadi%20&description=Hey%20You%20Welcome%20To%20My%20Profile%20🌠&image=https://i.ibb.co/HtT3vjm/goku-gif-3.gif?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=_Excel_&github=Xcelsama-&)
+### 📊 My Github Stats
 
+<p align="center"><img src="https://raw.githubusercontent.com/Xcelsama/Xcelsama/main/github-metrics.svg" alt="Metrics"></p>
+
+### 📝 My WakaTime breakdown stats weekly
+<p align="center"><img src="https://raw.githubusercontent.com/Xcelsama/Xcelsama/main/images/stat.svg" alt="Wakatime"></p>
 
 ## 📊ＳＴＡＴＳ
 
