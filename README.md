@@ -41,7 +41,7 @@
 <h3>SOME PROJECTS
         ↓</h3>
 
-<a href="https://github.com/Xcelsama/STAR-MD-V2">
+<a href="https://github.com/Xcelsama/STAR-BOT">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xcelsama&repo=STAR-MD-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
@@ -56,14 +56,6 @@
 
 <a href="https://github.com/salmanytofficial/XLICON-MD">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salmanytofficial&repo=XLICON-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Kingjux/Venocyber-md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kingjux&repo=Venocyber-md&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Kingjux/Venocyber-voice-message">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kingjux&repo=Venocyber-voice-message&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
