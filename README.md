@@ -1,10 +1,10 @@
  ## <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I AM EXCEL AMADI</h1>
 
 
-<h3 align="center">A passionate frontend Developer from Nigeria</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Profile%20views&color=0e75b6&style=flat" alt="xcelsama" /> </p>
 
+
+<h3 align="center">A passionate frontend Developer from Nigeria</h3>
 
 - 💬 Ask me about **Html,Js,Css**
 
