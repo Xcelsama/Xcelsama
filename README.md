@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/xcelsama" target="blank"><img align="center" src="" alt="xcelsama" height="30" width="40" /></a>
+<a href="https://dev.to/xcelsama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xcelsama" height="30" width="40" /></a>
 <a href="https://twitter.com/xcelsama_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xcelsama_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/excel amadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="excel amadi" height="30" width="40" /></a>
 <a href="https://fb.com/excel amadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="excel amadi" height="30" width="40" /></a>
