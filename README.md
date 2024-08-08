@@ -11,7 +11,7 @@
 - 📫 How to reach me **ms.excel.amadi@gmail.com**
 - 📯 For repo updates: [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 - 💻 For Tech Updates: [Follow](https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m)
-- ⚡ Fun fact: **The term "bug" in programming originated from a real moth.** In 1947, Grace Hopper and her team found a moth causing a malfunction in the Harvard Mark II computer, which led to the term "debugging" being coined.🤭**
+- ⚡ Fun fact: **The term "bug" in programming originated from a real moth. **In 1947, Grace Hopper and her team found a moth causing a malfunction in the Harvard Mark II computer, which led to the term "debugging" being coined 🤭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
