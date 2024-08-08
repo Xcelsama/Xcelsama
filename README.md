@@ -9,7 +9,7 @@
 - 💬 Ask me about **Html,Js,Css**
 
 - 📫 How to reach me **ms.excel.amadi@gmail.com**
-- 📯 For repo updates [follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
+- 📯 For repo updates [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 - ⚡ Fun fact **I'm a Bio student so I got no Bio 🤭**
 
 <h3 align="left">Connect with me:</h3>
