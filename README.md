@@ -7,7 +7,7 @@
 <h3 align="center">A passionate frontend Developer from Nigeria</h3>
 
 - 💬 Ask me about **Html,Js,Css**
-
+- Ngl I'm 14 yrs 
 - 📫 How to reach me **ms.excel.amadi@gmail.com**
 - 📯 For repo updates: [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
 - 💻 For Tech Updates: [Follow](https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m)
