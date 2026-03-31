@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Profile%20views&color=0e75b6&style=flat" alt="xcelsama" /> </p>
 
-  A passionate <span style={{backgroundColor: '#61dafb', color: '#000', padding: '2px 6px', borderRadius: '4px'}}>Frontend</span> developer moving <span style={{backgroundColor: '#68a063', color: '#fff', padding: '2px 6px', borderRadius: '4px'}}>Fullstack</span> from Nigeria 🇳🇬
+ A passionate ![Frontend](https://img.shields.io/badge/Frontend-61dafb?style=for-the-badge&logo=react&logoColor=000) developer moving ![Fullstack](https://img.shields.io/badge/Fullstack-68a063?style=for-the-badge&logo=node.js&logoColor=fff) from Nigeria 🇳🇬
 
 💬 **Ask me about:**
 - HTML & CSS (responsive layouts, styling)
