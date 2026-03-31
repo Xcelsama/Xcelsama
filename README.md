@@ -41,7 +41,7 @@
         <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br />HTML5<br />
         <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br />CSS3<br />
         <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" /><br />JavaScript<br />
-        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="superbase" /><br />Vue.js
+        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="superbase" /><br />Vue.js<br />
        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootsrap" /><br />Bootsrap<br />
        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" /><br />Tailwind CSS
       </td>
