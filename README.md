@@ -52,6 +52,7 @@
       <td align="center" valign="top">
         <h4>Databases</h4>
         <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" /><br />MongoDB<br />
+       <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="MongoDB" /><br />Supabase<br />
         <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" /><br />MySQL
       </td>
       <td align="center" valign="top">
