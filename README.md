@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Profile%20views&color=0e75b6&style=flat" alt="xcelsama" /> </p>
 
- <span style={{color: '#61dafb'}}>Frontend Developer</span> | Aspiring <span style={{color: '#512bd4'}}>Fullstack Engineer</span> 🇳🇬
+ ### A passionate <span style={{backgroundColor: '#61dafb', color: '#000', padding: '2px 6px', borderRadius: '4px'}}>Frontend</span> developer moving <span style={{backgroundColor: '#68a063', color: '#fff', padding: '2px 6px', borderRadius: '4px'}}>Fullstack</span> from Nigeria 🇳🇬
 
 💬 **Ask me about:**
 - HTML & CSS (responsive layouts, styling)
