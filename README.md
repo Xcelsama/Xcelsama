@@ -6,7 +6,13 @@
 
 <h3 align="center">A passionate frontend Developer from Nigeria</h3>
 
-- 💬 Ask me about **Html,Js,Css**
+💬 Ask me about:
+- HTML & CSS (responsive layouts, styling)
+- JavaScript basics
+- Supabase (authentication & database)
+- Building simple web apps (e.g. registry systems)
+- Backend development (currently learning)
+- How frontend connects to backend
 - 🙈 Ngl I'm 14 yrs 
 - 📫 How to reach me **ms.excel.amadi@gmail.com**
 - 📯 For repo updates: [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
