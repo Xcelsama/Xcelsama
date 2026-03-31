@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Profile%20views&color=0e75b6&style=flat" alt="xcelsama" /> </p>
 
-
-<h3 align="center">A passionate Frontend Developer from Nigeria</h3>
+### <span style={{color: '#61dafb'}}>Frontend Developer</span> | Aspiring <span style={{color: '#512bd4'}}>Fullstack Engineer</span> 🇳🇬
 
 💬 **Ask me about:**
 - HTML & CSS (responsive layouts, styling)
