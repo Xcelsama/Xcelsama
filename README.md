@@ -32,6 +32,7 @@
 <a href="https://instagram.com/xcel_sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcel_sama" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/hjDzt9kR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/hjDzt9kR" height="30" width="40" /></a>
 </p>
+<h3 align="center">💻 Languages & Tools</h3>
 <div align="center">
   <table>
     <tr>
