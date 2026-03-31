@@ -23,9 +23,6 @@
 <a href="https://discord.gg/https://discord.com/invite/hjDzt9kR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/hjDzt9kR" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="center">💻 Languages & Tools</h3>
-
 <div align="center">
   <table>
     <tr>
@@ -34,27 +31,31 @@
         <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br />HTML5<br />
         <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br />CSS3<br />
         <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" /><br />JavaScript<br />
-        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue.js" /><br />Vue.js
+        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue.js" /><br />Vue.js<br />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br />Bootstrap<br />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" /><br />Tailwind CSS
       </td>
+
       <td align="center" valign="top">
         <h4>Backend</h4>
         <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" /><br />Node.js<br />
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br />Bootstrap<br />
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" /><br />Tailwind CSS
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" /><br />Express<br />
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" /><br />Express.js<br />
         <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" /><br />.NET
       </td>
+
       <td align="center" valign="top">
         <h4>Databases</h4>
         <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" /><br />MongoDB<br />
         <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" /><br />MySQL
       </td>
+
       <td align="center" valign="top">
         <h4>DevOps / Cloud</h4>
         <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" /><br />Docker<br />
         <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br />Git<br />
         <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" /><br />Linux
       </td>
+
       <td align="center" valign="top">
         <h4>Tools</h4>
         <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50" alt="Photoshop" /><br />Photoshop<br />
