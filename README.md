@@ -39,6 +39,7 @@
       <td align="center" valign="top">
         <h4>Backend</h4>
         <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" /><br />Node.js<br />
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" /><br />Express.js<br />
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" /><br />Express<br />
         <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" /><br />.NET
       </td>
