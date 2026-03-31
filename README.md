@@ -74,13 +74,10 @@
 </div>
 
 
-
 <h3 align="center">Github Stats:</h3>
 
-
-  ![GitHub Stats](https://github-readme-stats-jet-psi.vercel.app/api?username=Xcelsama&show_icons=true&theme=tokyonight)
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xcelsama" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-jet-psi.vercel.app/api?username=Xcelsama&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com/?user=xcelsama&theme=tokyonight" height="150" alt="GitHub Streak" />
+</div>
