@@ -28,7 +28,6 @@
 
 <table align="center">
   <tr>
-    <!-- Frontend -->
     <td align="center">
       <h4>Frontend</h4>
       <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
@@ -44,8 +43,6 @@
         <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/><br>Vue.js
       </a>
     </td>
-
-    <!-- Backend -->
     <td align="center">
       <h4>Backend</h4>
       <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
@@ -61,7 +58,6 @@
   </tr>
 
   <tr>
-    <!-- Databases -->
     <td align="center">
       <h4>Databases</h4>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -71,8 +67,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/><br>MySQL
       </a>
     </td>
-
-    <!-- DevOps / Cloud -->
     <td align="center">
       <h4>DevOps / Cloud</h4>
       <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
@@ -88,7 +82,6 @@
   </tr>
 
   <tr>
-    <!-- Tools -->
     <td colspan="2" align="center">
       <h4>Tools</h4>
       <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer">
