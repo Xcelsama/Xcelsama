@@ -26,76 +26,43 @@
 
 <h3 align="center">💻 Languages & Tools</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h4>Frontend</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/><br>HTML5
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/><br>CSS3
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/><br>JavaScript
-      </a><br>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50"/><br>Vue.js
-      </a>
-    </td>
-    <td align="center">
-      <h4>Backend</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/><br>Node.js
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50"/><br>Express
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="50" height="50"/><br>.NET
-      </a>
-    </td>
-  </tr>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <h4>Frontend</h4>
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" /><br />HTML5<br />
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" /><br />CSS3<br />
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" /><br />JavaScript<br />
+        <img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue.js" /><br />Vue.js
+      </td>
+      <td align="center" valign="top">
+        <h4>Backend</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" /><br />Node.js<br />
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" /><br />Express<br />
+        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET" /><br />.NET
+      </td>
+      <td align="center" valign="top">
+        <h4>Databases</h4>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" /><br />MongoDB<br />
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" /><br />MySQL
+      </td>
+      <td align="center" valign="top">
+        <h4>DevOps / Cloud</h4>
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" /><br />Docker<br />
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" /><br />Git<br />
+        <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" /><br />Linux
+      </td>
+      <td align="center" valign="top">
+        <h4>Tools</h4>
+        <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50" alt="Photoshop" /><br />Photoshop<br />
+        <img src="https://skillicons.dev/icons?i=illustrator" width="50" height="50" alt="Illustrator" /><br />Illustrator<br />
+        <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" /><br />Postman
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <tr>
-    <td align="center">
-      <h4>Databases</h4>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/><br>MySQL
-      </a>
-    </td>
-    <td align="center">
-      <h4>DevOps / Cloud</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/><br>Docker
-      </a><br>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/><br>Linux
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <h4>Tools</h4>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/><br>Photoshop
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" width="50" height="50"/><br>Illustrator
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/><br>Postman
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <h3 align="center">Github Stats:</h3>
