@@ -22,12 +22,9 @@
 <a href="https://instagram.com/xcel_sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcel_sama" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/hjDzt9kR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/hjDzt9kR" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-
-  <!-- Frontend -->
-  <strong>Frontend:</strong> 
+<h3 align="center">Frontend</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   </a>
@@ -49,10 +46,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
   </a>
-  <br><br>
+</p>
 
-  <!-- Backend -->
-  <strong>Backend:</strong> 
+<h3 align="center">Backend</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   </a>
@@ -62,20 +59,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
   </a>
-  <br><br>
+</p>
 
-  <!-- Databases -->
-  <strong>Databases:</strong> 
+<h3 align="center">Databases</h3>
+<p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   </a>
-  <br><br>
+</p>
 
-  <!-- DevOps / Cloud -->
-  <strong>DevOps / Cloud:</strong> 
+<h3 align="center">DevOps / Cloud</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
@@ -88,10 +85,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   </a>
-  <br><br>
+</p>
 
-  <!-- Tools -->
-  <strong>Tools:</strong> 
+<h3 align="center">Tools</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
   </a>
@@ -101,10 +98,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/>
   </a>
-
 </p>
-
-
 
 <h3 align="center">Github Stats:</h3>
 
