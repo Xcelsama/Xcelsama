@@ -4,20 +4,24 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Profile%20views&color=0e75b6&style=flat" alt="xcelsama" /> </p>
 
 
-<h3 align="center">A passionate frontend Developer from Nigeria</h3>
+<h3 align="center">A passionate Frontend Developer from Nigeria</h3>
 
-💬 Ask me about:
+💬 **Ask me about:**
 - HTML & CSS (responsive layouts, styling)
 - JavaScript basics
 - Supabase (authentication & database)
-- Building simple web apps (e.g. registry systems)
+- Building simple web apps (e.g., registry systems)
 - Backend development (currently learning)
 - How frontend connects to backend
-- 🙈 Ngl I'm 14 yrs 
-- 📫 How to reach me **ms.excel.amadi@gmail.com**
-- 📯 For repo updates: [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)
-- 💻 For Tech Updates: [Follow](https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m)
-- ⚡ Fun fact: **The term "bug" in programming originated from a real moth.** **In 1947, Grace Hopper and her team found a moth causing a malfunction in the Harvard Mark II computer, which led to the term "debugging" being coined**. 🤭
+
+🙈 **Ngl, I'm 14 yrs**  
+
+📫 **Reach me:** ms.excel.amadi@gmail.com  
+
+📯 **Repo updates:** [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)  
+💻 **Tech updates:** [Follow](https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m)  
+
+⚡ **Fun fact:** The term "bug" in programming came from a real moth. In 1947, Grace Hopper and her team found a moth causing a malfunction in the Harvard Mark II computer, which led to the term "debugging." 🤭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
