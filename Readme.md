@@ -13,8 +13,6 @@
 - Backend development (currently learning)
 - How frontend connects to backend
 
-🙈 **Ngl, I'm 15 yrs**
-
 📫 **Reach me:** ms.excel.amadi@gmail.com  
 
 📯 **Repo updates:** [Follow](https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X)  
