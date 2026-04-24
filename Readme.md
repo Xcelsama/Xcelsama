@@ -10,7 +10,7 @@
 - JavaScript....
 - Supabase (authentication & database)
 - Building simple web apps (e.g., registry systems)
-- Backend development (currently learning)
+- Backend development
 - How frontend connects to backend
 
 📫 **Reach me:** ms.excel.amadi@gmail.com  
