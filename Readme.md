@@ -7,7 +7,7 @@
 
 💬 **Ask me about:**
 - HTML & CSS (responsive layouts, styling)
-- JavaScript basics
+- JavaScript....
 - Supabase (authentication & database)
 - Building simple web apps (e.g., registry systems)
 - Backend development (currently learning)
