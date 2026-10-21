@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Excel Amadi</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Xcelsama">
@@ -18,7 +16,7 @@
 
 Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.js, Supabase and Tailwind**. I turn ideas into working products: registries, booking platforms, file tools and business websites. I lead teams to ship them.
 
-🎓 **B.Sc. Anatomy, University of Port Harcourt (UNIPORT) 2025-2028**
+🎓 **B.Sc. Anatomy, University of Port Harcourt (UNIPORT)**
 
 ---
 
@@ -37,7 +35,7 @@ Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.j
 ### 🚀 Right now
 
 - 🧭 Leading **Nexora**, a booking and lifestyle platform
-- 🧵 Building the **Stitchly** frontend with a team of three, a designer platform for styling virtual clothes
+- 🧵 Building the **Stitchly** frontend (Next.js, React, TypeScript, Tailwind) with a team of three: a drag-and-drop clothing design editor that exports print-ready files. My part: the editor panels and the export flow
 - 📚 Sharpening **JavaScript**, with **React** next
 - 🤝 Open to internships, mentorship, collaborations and freelance web projects
 
@@ -55,7 +53,7 @@ Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.j
 | Project | What it is | Stack |
 |---|---|---|
 | 🌐 **Nexora** | Booking and lifestyle platform, which I lead | Next.js, Vercel |
-| 🧵 **Stitchly** | Designer platform for styling virtual clothes | Frontend team of 3 |
+| 🧵 **Stitchly** | Drag-and-drop clothing design editor with print-ready export. I build the editor panels and export flow | Next.js, React, TypeScript, Tailwind |
 | 📂 **AnyFile Viewer** | Opens 317+ file types in the browser, shipped as a PWA/APK | Client-side |
 | 🗜️ **AnyFile Compressor** | Squoosh-style compressor and converter for images, video, audio, PDF and docx | Next.js, no backend |
 | 🏛️ **Church Registry** | Member registry system for my church | Next.js, Supabase |
