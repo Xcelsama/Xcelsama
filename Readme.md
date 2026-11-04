@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Excel Amadi</h1>
 
-
-
 <p align="center">
   <a href="https://github.com/Xcelsama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Fullstack+Developer+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Next.js+%7C+Supabase+%7C+Tailwind;Sharpening+JavaScript%2C+React+is+next;I+build+things+that+ship" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Fullstack+Developer+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Next.js+%7C+Supabase+%7C+Tailwind;Leading+Nexora%2C+building+Stitchly;Sharpening+JavaScript%2C+React+is+next;Open+to+internships+%26+collaborations" alt="Typing intro" />
   </a>
 </p>
 
@@ -14,9 +12,9 @@
   <a href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X"><img src="https://img.shields.io/badge/Repo%20updates-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Repo updates" /></a>
 </p>
 
-Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.js, Supabase and Tailwind**. I turn ideas into working products: registries, booking platforms, file tools and business websites. I lead teams to ship them.
+Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.js, Supabase and Tailwind**. I turn ideas into working products: booking platforms, registries, file tools and business websites. I lead teams to ship them.
 
-🎓 **B.Sc. Anatomy, University of Port Harcourt (UNIPORT)**
+🎓 **B.Sc. Anatomy student, University of Port Harcourt (UNIPORT)**
 
 ---
 
@@ -28,6 +26,7 @@ Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.j
 - 🔌 Connecting a frontend to a backend and moving data between them
 - 📦 Client-side tools and PWAs that run without a server
 - 🏢 Websites and web systems for real businesses
+- 🧠 Turning anatomy into interactive web tools
 - 📢 Growing a tech community and leading a volunteer team
 - 📸 Photo editing and live-stream production
 - 🤖 Using AI tools to build faster without skipping the fundamentals
@@ -36,13 +35,15 @@ Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.j
 
 - 🧭 Leading **Nexora**, a booking and lifestyle platform
 - 🧵 Building the **Stitchly** frontend (Next.js, React, TypeScript, Tailwind) with a team of three: a drag-and-drop clothing design editor that exports print-ready files. My part: the editor panels and the export flow
+- 🧑‍💻 Doing the **CodeOrbit Tech** Full Stack Development Internship
+- 🦴 Building **Absolute Anatomy**, a free 3D anatomy atlas (work in progress)
 - 📚 Sharpening **JavaScript**, with **React** next
 - 🤝 Open to internships, mentorship, collaborations and freelance web projects
 
 ### 👤 About me
 
 - 🏷️ **Excel Hephzibah Amadi**, online as **Xcelsama** ("Master of Excellence")
-- 🎓 **B.Sc. Anatomy** at the University of Port Harcourt (UNIPORT)
+- 🎓 **B.Sc. Anatomy student** at the University of Port Harcourt (UNIPORT)
 - 📢 I run **Tech-X**, a WhatsApp tech channel with 6,000+ followers, and lead its volunteer team
 - ⛪ Active member of **Salvation Ministries Home of Success**, serving on the **Media Team**
 
@@ -54,8 +55,10 @@ Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.j
 |---|---|---|
 | 🌐 **Nexora** | Booking and lifestyle platform, which I lead | Next.js, Vercel |
 | 🧵 **Stitchly** | Drag-and-drop clothing design editor with print-ready export. I build the editor panels and export flow | Next.js, React, TypeScript, Tailwind |
+| 🦴 **[Absolute Anatomy](https://absolutee-anatomyy.vercel.app)** | Free 3D anatomy atlas, work in progress | Web app, Vercel |
 | 📂 **AnyFile Viewer** | Opens 317+ file types in the browser, shipped as a PWA/APK | Client-side |
 | 🗜️ **AnyFile Compressor** | Squoosh-style compressor and converter for images, video, audio, PDF and docx | Next.js, no backend |
+| 🗄️ **[Dock](https://github.com/Xcelsama/dock)** | Personal file storage site | Next.js, Vercel |
 | 🏛️ **Church Registry** | Member registry system for my church | Next.js, Supabase |
 | 📸 **Photo Drop** | Photo upload and download gallery | Next.js, Supabase, Vercel |
 | 💳 **X-Pay** | Fintech UI clone, hand-built | Bootstrap |
