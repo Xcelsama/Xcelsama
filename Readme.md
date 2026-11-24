@@ -2,71 +2,71 @@
 
 <p align="center">
   <a href="https://github.com/Xcelsama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Fullstack+Developer+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Next.js+%7C+Supabase+%7C+Tailwind;Leading+Nexora%2C+building+Stitchly;Sharpening+JavaScript%2C+React+is+next;Open+to+internships+%26+collaborations" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Next.js+%7C+Supabase+%7C+Tailwind;Building+Stitchly+%7C+Sharpening+React;Open+to+internships%2C+mentorship+%26+jobs" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:ms.excel.amadi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/excel-hephzibah-amadi-5733b4298"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://xcelsama.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-View%20site-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m"><img src="https://img.shields.io/badge/Tech--X-WhatsApp%20Channel-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Tech-X channel" /></a>
-  <a href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X"><img src="https://img.shields.io/badge/Repo%20updates-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="Repo updates" /></a>
 </p>
 
-Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.js, Supabase and Tailwind**. I turn ideas into working products: booking platforms, registries, file tools and business websites. I lead teams to ship them.
+Full-stack developer and graphic designer from Port Harcourt, Nigeria. I build web apps with **Next.js, Supabase and Tailwind**: file tools, galleries, interactive anatomy resources and websites for real businesses. I also run a tech community and lead its volunteer team.
 
-🎓 **B.Sc. Anatomy student, University of Port Harcourt (UNIPORT)**
-
----
-
-### 💬 Ask me about
-
-- 🎨 Responsive UIs with HTML, CSS, Tailwind and Bootstrap
-- ⚡ Next.js apps: pages, routing and deploying on Vercel
-- 🗄️ Supabase: authentication, database and storage
-- 🔌 Connecting a frontend to a backend and moving data between them
-- 📦 Client-side tools and PWAs that run without a server
-- 🏢 Websites and web systems for real businesses
-- 🧠 Turning anatomy into interactive web tools
-- 📢 Growing a tech community and leading a volunteer team
-- 📸 Photo editing and live-stream production
-- 🤖 Using AI tools to build faster without skipping the fundamentals
-
-### 🚀 Right now
-
-- 🧭 Leading **Nexora**, a booking and lifestyle platform
-- 🧵 Building the **Stitchly** frontend (Next.js, React, TypeScript, Tailwind) with a team of three: a drag-and-drop clothing design editor that exports print-ready files. My part: the editor panels and the export flow
-- 🧑‍💻 Doing the **CodeOrbit Tech** Full Stack Development Internship
-- 🦴 Building **Absolute Anatomy**, a free 3D anatomy atlas (work in progress)
-- 📚 Sharpening **JavaScript**, with **React** next
-- 🤝 Open to internships, mentorship, collaborations and freelance web projects
-
-### 👤 About me
-
-- 🏷️ **Excel Hephzibah Amadi**, online as **Xcelsama** ("Master of Excellence")
-- 🎓 **B.Sc. Anatomy student** at the University of Port Harcourt (UNIPORT)
-- 📢 I run **Tech-X**, a WhatsApp tech channel with 6,000+ followers, and lead its volunteer team
-- ⛪ Active member of **Salvation Ministries Home of Success**, serving on the **Media Team**
+**B.Sc. Anatomy student, University of Port Harcourt (UNIPORT)**
 
 ---
 
-### 🛠️ Featured projects
+## Currently
 
-| Project | What it is | Stack |
+- Building the **Stitchly** frontend (Next.js, React, TypeScript, Tailwind) with a team of three: a drag-and-drop clothing design editor that exports print-ready files. My part is the editor panels and the export flow.
+- Doing the **CodeOrbit Tech** Full Stack Development Internship.
+- Building **[Absolute Anatomy](https://absolutee-anatomyy.vercel.app/)**, a free 3D anatomy atlas (work in progress).
+- Sharpening my **JavaScript** and **React** skills.
+- Open to **internships, mentorship, job opportunities**, collaborations and freelance web projects.
+
+## About me
+
+- **Excel Hephzibah Amadi**, online as **Xcelsama** ("Master of Excellence").
+- B.Sc. Anatomy student at the University of Port Harcourt (UNIPORT).
+- Founder of **Tech-X**, a WhatsApp tech channel with 6,000+ followers, and leader of its volunteer team.
+- Active member of **Salvation Ministries Home of Success**, serving on the Media Team (photo editing and live-stream production).
+
+## Ask me about
+
+- Responsive UIs with HTML, CSS, Tailwind and Bootstrap
+- Next.js apps: pages, routing and deploying on Vercel
+- Supabase: authentication, database and storage
+- Connecting a frontend to a backend and moving data between them
+- Client-side tools and PWAs that run without a server
+- Websites and web systems for real businesses
+- Turning anatomy into interactive web tools
+- Growing a tech community and leading a volunteer team
+- Using AI tools to build faster without skipping the fundamentals
+
+---
+
+## Featured projects
+
+| Project | What it is | Links |
 |---|---|---|
-| 🌐 **Nexora** | Booking and lifestyle platform, which I lead | Next.js, Vercel |
-| 🧵 **Stitchly** | Drag-and-drop clothing design editor with print-ready export. I build the editor panels and export flow | Next.js, React, TypeScript, Tailwind |
-| 🦴 **[Absolute Anatomy](https://absolutee-anatomyy.vercel.app)** | Free 3D anatomy atlas, work in progress | Web app, Vercel |
-| 📂 **AnyFile Viewer** | Opens 317+ file types in the browser, shipped as a PWA/APK | Client-side |
-| 🗜️ **AnyFile Compressor** | Squoosh-style compressor and converter for images, video, audio, PDF and docx | Next.js, no backend |
-| 🗄️ **[Dock](https://github.com/Xcelsama/dock)** | Personal file storage site | Next.js, Vercel |
-| 🏛️ **Church Registry** | Member registry system for my church | Next.js, Supabase |
-| 📸 **Photo Drop** | Photo upload and download gallery | Next.js, Supabase, Vercel |
-| 💳 **X-Pay** | Fintech UI clone, hand-built | Bootstrap |
-| 🍲 **CHITU-KA Foods** | Website rebuild for a food business | Next.js |
+| **Stitchly** | Drag-and-drop clothing design editor with print-ready export. I build the editor panels and export flow (Next.js, React, TypeScript, Tailwind). | Team project in progress |
+| **Absolute Anatomy** | Free 3D anatomy atlas, work in progress. | [Live](https://absolutee-anatomyy.vercel.app/) |
+| **AnyFile Viewer** | Opens 317+ file types in the browser, shipped as a PWA/APK. Runs client-side. | [Live](https://any-file-opener-ten.vercel.app/) · [GitHub](https://github.com/Xcelsama/Any-file-opener) |
+| **AnyFile Compressor** | Squoosh-style compressor and converter for images, video, audio, PDF and docx (Next.js, no backend). | [GitHub](https://github.com/Xcelsama/anyfile-compressor) |
+| **Excel's Gallery** | Personal gallery for my Lightroom before/after edits (Next.js, Supabase, Vercel). | [Live](https://excels-gallery.vercel.app/gallery) · [GitHub](https://github.com/Xcelsama/excels-gallery) |
+| **SFX Vault** | Sound-effects library for video editing (Next.js, Vercel). | [Live](https://soundvault-beta-six.vercel.app/login) |
+| **Lens OCR** | OCR tool for extracting text from images. | [GitHub](https://github.com/Xcelsama/lens-ocr) |
+| **Chitu-Ka Foods** | Website rebuild for a food business (Next.js). | [Live](https://ckf-farina-swallow.vercel.app/) |
+| **Dock** | Personal file storage site (Next.js, Vercel). | [GitHub](https://github.com/Xcelsama/dock) |
+
+More projects are on my [portfolio](https://xcelsama.is-a.dev) and in my [repositories](https://github.com/Xcelsama?tab=repositories).
 
 ---
 
-<h3 align="center">💻 Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 <div align="center">
   <table>
     <tr>
@@ -114,18 +114,18 @@ Fullstack developer from Port Harcourt, Nigeria, building web apps with **Next.j
   <p><b>Also:</b> CapCut · PicsArt · OBS · vMix</p>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/xcelsama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://twitter.com/xcelsama_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.facebook.com/itz.hepzibah.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/xcel_sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://discord.com/invite/hjDzt9kR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/excel-hephzibah-amadi-5733b4298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/xcelsama_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/xcel_sama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@xcel_sama"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://dev.to/xcelsama"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+  <a href="https://discord.com/invite/hjDzt9kR"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://linktr.ee/xcelsama"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
 </p>
 
-⚡ **Fun fact:** The term "bug" in programming came from a real moth. In 1947, Grace Hopper and her team found a moth causing a malfunction in the Harvard Mark II computer, which led to the term "debugging." 🤭
-
-<h3 align="center">Github Stats:</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats-jet-psi.vercel.app/api?username=Xcelsama&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
