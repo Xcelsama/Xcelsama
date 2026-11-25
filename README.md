@@ -98,6 +98,7 @@ More projects are on my [portfolio](https://xcelsama.is-a.dev) and in my [reposi
         <img src="https://skillicons.dev/icons?i=ps,ai&perline=2" alt="Graphic design tools: Photoshop, Illustrator" />
         <img src="lightroom.png" width="48" height="48" alt="Lightroom" />
         <img src="picsart.png" width="48" height="48" alt="PicsArt" />
+        <img src="canva.png" width="48" height="48" alt="Canva" />
       </td>
       <td align="center" valign="top">
         <h4>Video & Live Production</h4>
