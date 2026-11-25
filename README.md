@@ -96,16 +96,16 @@ More projects are on my [portfolio](https://xcelsama.is-a.dev) and in my [reposi
       <td align="center" valign="top">
         <h4>Graphic Design & Photo</h4>
         <img src="https://skillicons.dev/icons?i=ps,ai&perline=2" alt="Graphic design tools: Photoshop, Illustrator" />
-        <img src="assets/icons/lightroom.png" width="48" height="48" alt="Lightroom" />
-        <img src="assets/icons/picsart.png" width="48" height="48" alt="PicsArt" />
+        <img src="lightroom.png" width="48" height="48" alt="Lightroom" />
+        <img src="picsart.png" width="48" height="48" alt="PicsArt" />
       </td>
       <td align="center" valign="top">
         <h4>Video & Live Production</h4>
-        <img src="assets/icons/capcut.png" width="48" height="48" alt="CapCut" />
+        <img src="capcut.png" width="48" height="48" alt="CapCut" />
         &nbsp;
         <img src="https://cdn.simpleicons.org/obsstudio/8b949e" width="48" height="48" alt="OBS Studio" />
         &nbsp;
-        <img src="assets/icons/vmix.png" width="48" height="48" alt="vMix" />
+        <img src="vmix.png" width="48" height="48" alt="vMix" />
       </td>
     </tr>
   </table>
