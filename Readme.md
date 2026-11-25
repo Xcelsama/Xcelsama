@@ -130,5 +130,5 @@ More projects are on my [portfolio](https://xcelsama.is-a.dev) and in my [reposi
 <div align="center">
   <img src="https://github-readme-stats-jet-psi.vercel.app/api?username=Xcelsama&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com/?user=xcelsama&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Xcelsama&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Streak" />
 </div>
