@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Xcelsama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%26+Graphic+Designer+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Next.js+%7C+Supabase+%7C+Tailwind;Building+Stitchly+%7C+Sharpening+React;Open+to+internships%2C+mentorship+%26+jobs" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=FullStack+Developer+%26+Graphic+Designer+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Next.js+%7C+Supabase+%7C+Tailwind;Building+Stitchly+%7C+Sharpening+React;Open+to+internships%2C+mentorship+%26+jobs" alt="Typing intro" />
   </a>
 </p>
 
