@@ -86,7 +86,7 @@ More projects are on my [portfolio](https://xcelsama.is-a.dev) and in my [reposi
       </td>
       <td align="center" valign="top">
         <h4>Dev Tools</h4>
-        <img src="https://skillicons.dev/icons?i=vscode,postman&perline=2" alt="Dev tools: VS Code, Postman" />
+        <img src="https://skillicons.dev/icons?i=vscode,postman,bun,eslint&perline=2" alt="Dev tools: VS Code, Postman, Bun, ESLint" />
       </td>
     </tr>
   </table>
