@@ -128,7 +128,12 @@ More projects are on my [portfolio](https://xcelsama.is-a.dev) and in my [reposi
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-mlz1-lz0uig77o-excels-projects-0d9275b7.vercel.app/api?username=Xcelsama&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=Xcelsama&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Streak" />
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Xcelsama&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
+<img src="https://github-stats-extended.vercel.app/api?username=Xcelsama&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Streak" />
+
 </div>
+
+  
